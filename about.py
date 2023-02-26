@@ -1,0 +1,10 @@
+def about_us(tab):
+    tab.title("The Team")
+    tab.write("**Shibani**")
+    tab.write("A passionate probelm-solver who is always interested in innovating and developing new solutions. ")
+    tab.write("**Dharun**")
+    tab.write("An all-rounder with an ability to adapt and overcome adverse situations . ")
+    tab.write("**Tharun**")
+    tab.write("Eager to learn and innovative, he is someone who excels in coming up with out of the box ideas.  ")
+    tab.write("**Hrishikesh**")
+    tab.write("Steadfast and an excellent programmer, he is someone who is ready to give it his all. ")
